@@ -5,6 +5,7 @@ In this mini project I explored ~820 pokemon stats database using pandas, seabor
 Basic data visualisation tools used:
 
 (i) Countplot
+
 (ii) Jointplot
 
 (iii) Heatmap
